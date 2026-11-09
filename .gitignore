@@ -30,3 +30,6 @@ htmlcov/
 Thumbs.db
 desktop.ini
 ~$*
+
+# Local agent session trace
+log.txt
